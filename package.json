@@ -2,6 +2,10 @@
   "homepage": "https://github.com/radbaniak/personal-site",
   "name": "personalportfolio",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radbaniak/personal-site"
+  },
   "dependencies": {
     "jquery": "^3.2.1",
     "react": "^16.2.0",
