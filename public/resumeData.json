@@ -39,7 +39,7 @@
     "education": [
       {
         "school": "The Open University",
-        "degree": "Computing and IT  (Software)",
+        "degree": "BSc (Honours) Computing and IT (Software)",
         "graduated": "Estimated 2026",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
@@ -100,32 +100,9 @@
       {
         "title": "Roger Gracie Academy",
         "category": "Jiu-Jitsu Academy website",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.rgadarlington.com/"
-      },
-      {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "image": "rogergracie.png",
+        "url": "https://www.rgadarlington.com/",
+        "technologies": ["fa fa-html5" , "fa fa-css3"] 
       }
     ]
   },
